@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Mathematics @ <a href='https://ethz.ch/'>ETH Zurich</a>
+subtitle: 
 
 profile:
   align: right
@@ -28,4 +28,4 @@ I am a Mathematics PhD student at [ETH Zurich](https://ethz.ch), working on Non-
 
 I completed my Masters in Mathematics at ETH Zurich in March 2025, focusing in Mathematical Optimization, Operations Research, Graph Theory and Theoretical Computer Science.
 
-Feel free to send me an email under *firstname.lastname[at]ifor.math.ethz.ch* or visit me in my office at HG G 21.3.
+You can reach me by email at *firstname.lastname[at]ifor.math.ethz.ch* or visit me in my office at HG G 21.3.
