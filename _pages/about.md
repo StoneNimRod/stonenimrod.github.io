@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -24,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Mathematics PhD student at [ETH Zurich](https://ethz.ch), working on Non-Linear and Integer Optimization, under the supervision of Prof. [Robert Weismantel](https://math.ethz.ch/ifor/groups/weismantel_group/robert-weismantel.html).
+I am a Mathematics PhD student at [ETH Zurich](https://ethz.ch) under the supervision of Prof. [Robert Weismantel](https://math.ethz.ch/ifor/groups/weismantel_group/robert-weismantel.html).
+
+My research focuses on mathematical optimization, operations research, and their applications. Currently, I am working on a particular class of nonlinear integer optimization problems, in which the constraint matrix has a totally unimodular (TU) structure.
 
 I completed my Masters in Mathematics at ETH Zurich in March 2025, focusing in Mathematical Optimization, Operations Research, Graph Theory and Theoretical Computer Science.
 
-You can reach me by email at *firstname.lastname[at]ifor.math.ethz.ch* or visit me in my office at HG G 21.3.
+You can reach me by email at *firstname.lastname[at]ifor.math.ethz.ch* or visit me in my office at [HG](https://ethz.ch/en/utils/location.html?building=HG) [G 21.3](https://ethz.ch/en/utils/location.html?building=HG&floor=G&room=21.3).

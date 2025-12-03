@@ -7,6 +7,14 @@
       "startDate": "Sep. 2025",
       "endDate": "Present",
       "summary": "PhD Student at the Institute of Operations Research"
+    },
+    {
+      "name": "Axpo AG, Baden, Switzerland",
+      "position": "Data Science Intern",
+      "url": "https://www.axpo.com/ch/en.html",
+      "startDate": "Mar. 2025",
+      "endDate": "Sep. 2025",
+      "summary": "Intern in the Trading and Sales Department"
     }
   ],
   "education": [
@@ -26,7 +34,7 @@
       "studyType": "Math International Exchange",
       "startDate": "Sep. 2023",
       "endDate": "Jan. 2024",
-      "courses": ["Exchange semester in the Combinatorics and Optimization department", "Focus in OR models, flow algorithms and sensitivity analysis", "C"]
+      "courses": ["Exchange semester in the Combinatorics and Optimization department", "Focus in OR models, flow algorithms and sensitivity analysis"]
     },
     {
       "institution": "ETH Zurich",
